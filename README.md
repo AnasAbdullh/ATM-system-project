@@ -1,2 +1,4 @@
 # ATM-system-project
-ATM project
+Simple ATM System Project
+
+# مشروع نظام الصراف الآلي البسيط 
